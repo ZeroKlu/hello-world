@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGL/a6JACbWpskhR/LQEBB5w7x2mWhcRqQ8lVRV56pz9DdP0X84LICQdWvxHlvUvcMT6fGZEa1F5dRleJw8+5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Hello World\\F#\\hello\\hello.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SMCLEAN\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

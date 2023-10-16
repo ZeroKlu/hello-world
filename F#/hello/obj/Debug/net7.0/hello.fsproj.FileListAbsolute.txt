@@ -1,0 +1,4 @@
+D:\Training\Hello World\F#\hello\obj\Debug\net7.0\hello.fsproj.AssemblyReference.cache
+D:\Training\Hello World\F#\hello\obj\Debug\net7.0\hello.AssemblyInfoInputs.cache
+D:\Training\Hello World\F#\hello\obj\Debug\net7.0\hello.AssemblyInfo.fs
+D:\Training\Hello World\F#\hello\obj\Debug\net7.0\hello.fsproj.CoreCompileInputs.cache
