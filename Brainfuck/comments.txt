@@ -1,0 +1,2 @@
+Install "vscode-brainfuck" for syntax highlighting
+To execute, CTRL+SHIFT+P then select "Brainfuck: Run current file without JIT"

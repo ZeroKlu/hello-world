@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Requires licensed Visual Studio to run
+
+using System;
 
 internal partial class Program
 {

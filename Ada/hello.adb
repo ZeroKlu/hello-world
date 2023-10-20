@@ -1,3 +1,6 @@
+-- Install "Language Support for Ada vXX.X.X" for syntax highlighting
+-- I have not tested a debugger yet
+
 with Ada.Text_IO;
 
 procedure Hello is

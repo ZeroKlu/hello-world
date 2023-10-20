@@ -1,3 +1,6 @@
+; Install "x86 and x86_64 Assembly" for syntax highlighting
+; I don't have a debuigger for this
+
 mov ax,cs
 mov ds,ax
 mov ah,9
